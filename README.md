@@ -8,7 +8,7 @@ The goal of this task is to assess your attention to detail, ability to create i
 
 ## Part One: Practical Task
 
-You will be using the components in the [Figma design file](https://www.figma.com/file/9pgpSp0op1eoWuMGtEHU7x/Patrianna---FE-Gaming-Task?node-id=0%3A1&t=W63yF9mNKHYfqh77-1) to build a game UI.
+You will be using the components in the [Figma design file](https://www.figma.com/file/9pgpSp0op1eoWuMGtEHU7x/Patrianna---FE-Gaming-Task?node-id=0%3A1&t=W63yF9mNKHYfqh77-1) to build a working game UI.
 You'll have 60 minutes to complete this task :) 
 
 ### Instructions
