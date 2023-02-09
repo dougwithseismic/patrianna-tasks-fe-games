@@ -66,15 +66,25 @@ After completing the practical task, we'll have a sync up call. You will be aske
 - Explain your approach to the task, why you chose it, and what other methods you might have considered but decided against.
 - Was there anything you wanted to implement but didn't have the time or resources to do so?
 - Is there anything you would change about the component design? If so, what, why, and how?
-- What other components or methods might be needed in a production-ready game? How would you decide what features to include in an MVP and how would you approach accessibility?
+- How do you manage your priorities in general?
+
+#### Future Considerations
+
+- What other components or methods might be needed in a production-ready game?
+- How would you decide what features to include in an MVP?
+
 - Explain your approach to styling and its benefits and caveats.
+
+#### React / Next.js
+
 - Discuss your experience with state management in React, including potential gotchas and ways to overcome them.
 - If you have experience with Next.js, share what features you would use to improve performance of the app. If not, share if you have tried it and how you would like to learn more.
 - Share your background and previous work, what you enjoyed, and your goals as a developer.
 - What are your favorite technologies? How do you improve your dev skills?
 
-Please make sure to commit your code to the [repo](link to repo) for review. Good luck!
+Please make sure to commit your code to a new repo for review, and add `dougwithseismic` as a collaborator for review. Good luck!
 
 #### Useful Links
 
 Working Demo of similar, playable game (higher or lower. ) - [free, playable card game demo](https://spribe.co/games/hilo)
+Questions? Email doug.silkstone@patrianna.com
