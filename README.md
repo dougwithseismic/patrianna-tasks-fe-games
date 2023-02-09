@@ -59,7 +59,7 @@ When building the game, be sure to:
 
 ## Part Two: Reflection
 
-After completing the practical task, we'll have a sync up call. You will be asked to reflect on your approach and share your thoughts on various aspects of the project.
+After completing the practical task, and we have had time to review you work, we'll have one final call where you'll have the chance to reflect on your approach and share your thoughts on various aspects of the project, plus ask any questions about the task, the role and everything else.
 
 ### Potential topics
 
