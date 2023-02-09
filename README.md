@@ -13,6 +13,7 @@ You'll have 60 minutes to complete this task :)
 
 ### Instructions
 
+- Read this README from start to finish.
 - Create a Game UI for Red or Black [Figma design file](https://www.figma.com/file/9pgpSp0op1eoWuMGtEHU7x/Patrianna---FE-Gaming-Task?node-id=0%3A1&t=W63yF9mNKHYfqh77-1)
 - Call the `/api/make-spin` to make a new spin and retrieve a card from the server.
 - Display the outcome
@@ -43,7 +44,8 @@ How to play `Red or Black`.
 
 ### Important Notes
 
-- No game logic should sit on the client; you must call the mock server endpoint to fetch the next card.
+- No game logic should sit on the client; you should call the mock server endpoint to fetch the next card.
+
 - We should hold the game history in state somewhere
 - Write clean, readable, code with modern JS practices.
 - Animations are welcome if you have time! (`framer-motion` is great.)
@@ -75,4 +77,4 @@ Please make sure to commit your code to the [repo](link to repo) for review. Goo
 
 #### Useful Links
 
-Inspiration - [free, playable card game demo](https://spribe.co/games/hilo)
+Working Demo of similar, playable game (higher or lower. ) - [free, playable card game demo](https://spribe.co/games/hilo)
