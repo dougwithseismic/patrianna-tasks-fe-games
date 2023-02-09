@@ -37,14 +37,14 @@ A game starts with a pack of (infinite) cards, face down, and one card next to i
 
 #### How to play `Red or Black`.
 
-    1. The player presses start to lock in their bet.
-    2. The player chooses whether the next card is red, or black.
+1. The player presses start to lock in their bet.
+2. The player chooses whether the next card is red, or black.
 
-    Outcome: Correct guess
-        The player can play again and guess the next card
+3. Outcome: Correct guess
+    The player can play again and guess the next card
 
-    Outcome: Wrong guess
-        Player loses, game UI resets to default.
+4. Outcome: Wrong guess
+    Player loses, game UI resets to default.
 
 ### Important Notes
 
