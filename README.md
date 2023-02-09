@@ -9,11 +9,14 @@ The goal of this task is to assess your attention to detail, ability to create i
 ## Part One: Practical Task
 
 You will be using the components in the [Figma design file](https://www.figma.com/file/9pgpSp0op1eoWuMGtEHU7x/Patrianna---FE-Gaming-Task?node-id=0%3A1&t=W63yF9mNKHYfqh77-1) to build a game UI.
-You'll have 60 minutes to complete this task :)
+You'll have 60 minutes to complete this task :) 
 
 ### Instructions
 
 - Read this README from start to finish.
+- Using this template, create a new repo
+  - Tailwind is set up should you wish to use it.
+
 - Create a Game UI for Red or Black [Figma design file](https://www.figma.com/file/9pgpSp0op1eoWuMGtEHU7x/Patrianna---FE-Gaming-Task?node-id=0%3A1&t=W63yF9mNKHYfqh77-1)
 - Call the `/api/make-spin` to make a new spin and retrieve a card from the server.
 - Display the outcome
@@ -24,7 +27,7 @@ We're looking for..
 - Clean, readable code.
 - Ability to create pixel-perfect designs from Figma
 - Understanding of React & State Management
-- Modern approach to state management and React best practices.
+- Modern approach to React best practices.
 - Bonus points for using `nextjs` optimization features such as `next/image`
 
 ### Game Rules
@@ -46,12 +49,12 @@ How to play `Red or Black`.
 
 - No game logic should sit on the client; you should call the mock server endpoint to fetch the next card.
 
-- We should hold the game history in state somewhere
+- Where will you hold game state? What other information should you be showing on the UI?
 - Write clean, readable, code with modern JS practices.
-- Animations are welcome if you have time! (`framer-motion` is great.)
+- Animations are welcome if you have time!
 - When finished, upload to github and give collaborator access to `doug@withseismic.com`
 
-Please note that if you run into any issues or find a task to be too time consuming, you should make a note of it and move on. There will be time to explain any challenges you faced at the end of the task.
+Please note that if you run into any issues or find a task to be too time consuming, you should make a note of it and move on. There will be time to explain any challenges you faced at the end of the task. 
 
 When building the game, be sure to:
 

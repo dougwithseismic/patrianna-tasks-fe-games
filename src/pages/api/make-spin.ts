@@ -2,9 +2,9 @@
 import type { NextApiRequest, NextApiResponse } from 'next'
 
 type Data = {
-  guess: string
+  guess: 'red' | 'black'
   isCorrect: boolean
-  card: { value: string; suit: string }
+  card: { value: string; suit: string, color: 'RED' | 'BLACK' }
   error?: string
 }
 
@@ -34,12 +34,12 @@ export default async function handler(
     const card = deckJson.cards[0]
 
     const { value, suit } = card
-    const isRed = suit === 'HEARTS' || suit === 'DIAMONDS'
+    const isCorrect = (guess === 'red' && suit === 'HEARTS') || (guess === 'black' && suit === 'SPADES')
+    const color = suit === 'HEARTS' || suit === 'DIAMONDS' ? 'RED' : 'BLACK'
 
-    const isCorrect =
-      (guess === 'red' && isRed) || (guess === 'black' && !isRed)
 
-    return res.status(200).json({ guess, isCorrect, card: { value, suit } })
+
+    return res.status(200).json({ guess, isCorrect, card: { value, suit, color } })
   } catch (error) {
     console.error('Error fetching deck :: ', error)
     res.status(500).json({ error: 'Error fetching deck. Check /api/make-spin' })

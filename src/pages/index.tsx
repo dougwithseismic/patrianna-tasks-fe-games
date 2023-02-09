@@ -1,9 +1,7 @@
 import Head from 'next/head'
-import { Inter } from '@next/font/google'
-
-const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
+
   return (
     <>
       <Head>
@@ -15,8 +13,8 @@ export default function Home() {
       <div className='main'>
         <section className='my-32'>
           <div className='container'>
-            <div className='content md:max-w-xl space-y-4'>
-              <h1 className='text-5xl'>Game Studio Task.</h1>
+            <div className='content  md:max-w-xl space-y-4'>
+              <h1 className='text-5xl text-white'>Game Studio Task.</h1>
               <p>
                 Welcome! Today, we shall be building a working game in
                 React/Next.js.
@@ -31,6 +29,7 @@ export default function Home() {
                 ability to create interactive UI elements, basic understanding
                 of endpoints, and your thought process.
               </p>
+              <h2 className='bold text-xl'>Good luck, and have fun!</h2>
             </div>
           </div>
         </section>
