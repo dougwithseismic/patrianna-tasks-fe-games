@@ -42,6 +42,7 @@ A game starts with a pack of (infinite) cards, face down, and one card next to i
 
 3. Outcome: Correct guess
     The player can play again and guess the next card
+    Update the UI to show this.
 
 4. Outcome: Wrong guess
     Player loses, game UI resets to default.
@@ -52,7 +53,8 @@ A game starts with a pack of (infinite) cards, face down, and one card next to i
 
 - Where will you hold game state? What other information should you be showing on the UI?
 - Write clean, readable, code with modern JS practices.
-- Animations are welcome if you have time!
+- Animations are welcome.
+- Think about how you might scaffold a framework for multiple games
 - When finished, upload to github and give collaborator access to `doug@withseismic.com`
 
 Please note that if you run into any issues or find a task to be too time consuming, you should make a note of it and move on. There will be time to explain any challenges you faced at the end of the task. 
