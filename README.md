@@ -21,6 +21,7 @@ You'll have 60 minutes to complete this task :)
 - Call the `/api/make-spin` to make a new spin and retrieve a card from the server.
 - Display the outcome
 - Store the outcome(s) in local state
+- Make the project yours! Add comments, change logic, improve where you need to.
 - Push your code and share collaborator access to `doug.silkstone@patrianna.com`
 
 We're looking for..
