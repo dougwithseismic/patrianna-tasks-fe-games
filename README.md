@@ -22,7 +22,7 @@ You'll have 60 minutes to complete this task :)
 - Display the outcome
 - Store the outcome(s) in local state
 - Make the project yours! Add comments, change logic, improve where you need to.
-- Push your code and share collaborator access to `doug.silkstone@patrianna.com`
+- Push your code and share collaborator access to `doug.silkstone@patrianna.com` or `dougwithseismic`
 
 We're looking for..
 
@@ -56,7 +56,7 @@ A game starts with a pack of (infinite) cards, face down, and one card next to i
 - Write clean, readable, code with modern JS practices.
 - Animations are welcome.
 - Think about how you might scaffold a framework for multiple games
-- When finished, upload to github and give collaborator access to `doug@withseismic.com`
+- When finished, upload to github and give collaborator access to `dougwithseismic`
 
 Please note that if you run into any issues or find a task to be too time consuming, you should make a note of it and move on. There will be time to explain any challenges you faced at the end of the task. 
 
